@@ -10,6 +10,4 @@
 - https://github.com/Maratinhos/bigquery
 - About Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 
-cloud.google.com/bigquery/
-Topics
-bigquery sql utilities data-warehouse google-cloud-platform
+
