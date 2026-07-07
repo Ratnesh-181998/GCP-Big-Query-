@@ -1,10 +1,7 @@
-CREATE TABLE `superb-shelter-403306.CUSTOMER_DB.gadgets_order_data` (
+CREATE TABLE `superb-shelter-403306.CUSTOMER_DB.orders` (
     order_id INT64,
-    customer_id INT64,
-    item STRING,
+    product STRING,
     quantity INT64,
-    price FLOAT64,
-    shipping_address STRING,
     order_status STRING,
-    creation_date DATE
+    order_date DATE
 );

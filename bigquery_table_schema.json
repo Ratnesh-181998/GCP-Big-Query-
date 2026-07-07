@@ -1,0 +1,9 @@
+{
+    "BigQuery Schema": [
+        {"name": "order_id", "type": "INTEGER"},
+        {"name": "product", "type": "STRING"},
+        {"name": "quantity", "type": "INTEGER"},
+        {"name": "order_status", "type": "STRING"},
+        {"name": "order_date", "type": "DATE"}
+    ]
+}
