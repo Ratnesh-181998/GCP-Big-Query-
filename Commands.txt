@@ -1,0 +1,13 @@
+create external table `superb-shelter-403306.customer_db_demo.orders_raw_demo`
+(
+    order_id INT64,
+    product STRING,
+    quantity INT64,
+    order_status STRING,
+    order_date DATE
+)
+options (
+  format = 'CSV',
+  uris = ['gs://bigquery_data_gds/orders_data/*.csv'],
+  skip_leading_rows = 0
+);
