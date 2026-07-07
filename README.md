@@ -8,6 +8,7 @@
 - https://github.com/GoogleCloudPlatform/bigquery-utils
 - https://github.com/topics/big-query
 - https://github.com/Maratinhos/bigquery
+- https://github.com/google/skills/blob/main/skills/cloud/bigquery-basics/SKILL.md
 - About Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 
 
