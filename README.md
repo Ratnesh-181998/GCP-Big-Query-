@@ -1,2 +1,13 @@
 # GCP-Big-Query
-Google BigQuery is a fully managed, serverless enterprise data warehouse designed for lightning-fast analytics. It allows you to run complex SQL or Python queries on massive, petabyte-scale datasets without managing any servers or infrastructure
+- Google BigQuery is a fully managed, serverless enterprise data warehouse designed for lightning-fast analytics. It allows you to run complex SQL or Python queries on massive, petabyte-scale datasets without managing any servers or infrastructure
+
+- https://www.skills.google/course_templates/865
+- https://cloud.google.com/bigquery
+- https://www.geeksforgeeks.org/devops/google-cloud-platform-introduction-to-bigquery/
+- https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code
+- https://github.com/GoogleCloudPlatform/bigquery-utils
+- About Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
+
+cloud.google.com/bigquery/
+Topics
+bigquery sql utilities data-warehouse google-cloud-platform
